@@ -1,0 +1,9 @@
+{
+	"font_face": "Source Code Pro Light",
+	"font_options": ["subpixel_antialias" , "no_round" ],
+	"color_scheme": "Packages/User/sgobin.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
