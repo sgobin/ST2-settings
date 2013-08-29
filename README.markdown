@@ -7,6 +7,7 @@ Este é um conjunto pessoal de preferências para o Sublime Text 2, como uma man
 - Tema Personalizado
 - Opção do Fonte
 - Opção de renderização da fonte no OSX
+- Identação: 4 tabs, não converter para espaços
 
 Requerimentos
 -------------
@@ -14,4 +15,5 @@ Requerimentos
 
 Notas
 -----
+- No Mac os arquivos de preferência ficam em ~/Library/Application Suppor/Sublime Text 2/Packages/User
 - São preferências pessoais do grupo que podem mudar completamente de uma hora para outra.

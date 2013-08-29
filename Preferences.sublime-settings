@@ -1,7 +1,13 @@
 {
-	"font_face": "Source Code Pro Light",
-	"font_options": ["subpixel_antialias" , "no_round" ],
 	"color_scheme": "Packages/User/sgobin.tmTheme",
+	"tab_size": 4,
+    "translate_tabs_to_spaces": false,
+	"font_face": "Source Code Pro Light",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_round"
+	],
 	"ignored_packages":
 	[
 		"Vintage"
